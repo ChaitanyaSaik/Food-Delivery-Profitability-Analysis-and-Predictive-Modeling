@@ -1,26 +1,5 @@
 # Food Delivery Profitability Analysis and Predictive Modeling
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Objective](#objective)
-- [Key Variables](#key-variables)
-- [Data Sources](#data-sources)
-- [Data Collection and Preprocessing](#data-collection-and-preprocessing)
-- [Analysis and Modeling](#analysis-and-modeling)
-  - [Descriptive Analysis](#descriptive-analysis)
-  - [Inferential Analysis](#inferential-analysis)
-  - [Visualization Analysis](#visualization-analysis)
-  - [Predictive Modeling](#predictive-modeling)
-  - [Model Evaluation](#model-evaluation)
-- [Results and Insights](#results-and-insights)
-- [Implications](#implications)
-- [Limitations](#limitations)
-- [Future Directions](#future-directions)
-- [Files in this Repository](#files-in-this-repository)
-- [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 This project presents a comprehensive analysis of food delivery profitability. It aims to understand the revenue and cost components of each transaction and leverages predictive modeling to forecast profitability in the competitive food delivery industry.
 
